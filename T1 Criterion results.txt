@@ -1,0 +1,159 @@
+=== boot #1 reset_reason=1 (1=power-on 11=usb-reset) ===
+prev boot: rr=1 wifi=1 bmi=1 tmf=1 fw=1 recovered=0
+bus idle: SDA=1 SCL=1 (both must be 1)
+I2C scan:
+  found 0x41
+  found 0x68
+  found 0x7E
+TMF wait 1: stable_after=900 ms flaps=0
+TMF8829 ack: OK, FW load + frame: OK
+BMI323 @0x68 chip_id=0x1143
+BMI323 OK
+tof_ack_after_bmi=1
+WiFi OK ip=10.172.110.18 rssi=-73
+recovered_after_wifi=0
+RESULT boot=1 PASS (pass count 1)
+
+=== boot #2 reset_reason=1 (1=power-on 11=usb-reset) ===
+prev boot: rr=1 wifi=1 bmi=1 tmf=1 fw=1 recovered=0
+bus idle: SDA=1 SCL=1 (both must be 1)
+I2C scan:
+  found 0x41
+  found 0x68
+  found 0x7E
+TMF wait 1: stable_after=900 ms flaps=0
+TMF8829 ack: OK, FW load + frame: OK
+BMI323 @0x68 chip_id=0x1143
+BMI323 OK
+tof_ack_after_bmi=1
+WiFi OK ip=10.172.110.18 rssi=-85
+recovered_after_wifi=0
+RESULT boot=2 PASS (pass count 2)
+
+=== boot #3 reset_reason=1 (1=power-on 11=usb-reset) ===
+prev boot: rr=1 wifi=1 bmi=1 tmf=1 fw=1 recovered=0
+bus idle: SDA=1 SCL=1 (both must be 1)
+I2C scan:
+  found 0x41
+  found 0x68
+  found 0x7E
+TMF wait 1: stable_after=900 ms flaps=0
+TMF8829 ack: OK, FW load + frame: OK
+BMI323 @0x68 chip_id=0x1143
+BMI323 OK
+tof_ack_after_bmi=1
+WiFi OK ip=10.172.110.18 rssi=-89
+recovered_after_wifi=0
+RESULT boot=3 PASS (pass count 3)
+
+=== boot #4 reset_reason=1 (1=power-on 11=usb-reset) ===
+prev boot: rr=1 wifi=1 bmi=1 tmf=1 fw=1 recovered=0
+bus idle: SDA=1 SCL=1 (both must be 1)
+I2C scan:
+  found 0x41
+  found 0x68
+  found 0x7E
+TMF wait 1: stable_after=900 ms flaps=0
+TMF8829 ack: OK, FW load + frame: OK
+BMI323 @0x68 chip_id=0x1143
+BMI323 OK
+tof_ack_after_bmi=1
+WiFi OK ip=10.172.110.18 rssi=-51
+recovered_after_wifi=0
+RESULT boot=4 PASS (pass count 4)
+
+=== boot #5 reset_reason=1 (1=power-on 11=usb-reset) ===
+prev boot: rr=1 wifi=1 bmi=1 tmf=1 fw=1 recovered=0
+bus idle: SDA=1 SCL=1 (both must be 1)
+I2C scan:
+  found 0x41
+  found 0x68
+  found 0x7E
+TMF wait 1: stable_after=900 ms flaps=0
+TMF8829 ack: OK, FW load + frame: OK
+BMI323 @0x68 chip_id=0x1143
+BMI323 OK
+tof_ack_after_bmi=1
+WiFi OK ip=10.172.110.18 rssi=-52
+recovered_after_wifi=0
+RESULT boot=5 PASS (pass count 5)
+
+=== boot #6 reset_reason=1 (1=power-on 11=usb-reset) ===
+prev boot: rr=1 wifi=1 bmi=1 tmf=1 fw=1 recovered=0
+bus idle: SDA=1 SCL=1 (both must be 1)
+I2C scan:
+  found 0x41
+  found 0x68
+  found 0x7E
+TMF wait 1: stable_after=900 ms flaps=0
+TMF8829 ack: OK, FW load + frame: OK
+BMI323 @0x68 chip_id=0x1143
+BMI323 OK
+tof_ack_after_bmi=1
+WiFi OK ip=10.172.110.18 rssi=-89
+recovered_after_wifi=0
+RESULT boot=6 PASS (pass count 6)
+
+=== boot #7 reset_reason=1 (1=power-on 11=usb-reset) ===
+prev boot: rr=1 wifi=1 bmi=1 tmf=1 fw=1 recovered=0
+bus idle: SDA=1 SCL=1 (both must be 1)
+I2C scan:
+  found 0x41
+  found 0x68
+  found 0x7E
+TMF wait 1: stable_after=900 ms flaps=0
+TMF8829 ack: OK, FW load + frame: OK
+BMI323 @0x68 chip_id=0x1143
+BMI323 OK
+tof_ack_after_bmi=1
+WiFi OK ip=10.172.110.18 rssi=-60
+recovered_after_wifi=0
+RESULT boot=7 PASS (pass count 7)
+
+=== boot #8 reset_reason=1 (1=power-on 11=usb-reset) ===
+prev boot: rr=1 wifi=1 bmi=1 tmf=1 fw=1 recovered=0
+bus idle: SDA=1 SCL=1 (both must be 1)
+I2C scan:
+  found 0x41
+  found 0x68
+  found 0x7E
+TMF wait 1: stable_after=900 ms flaps=0
+TMF8829 ack: OK, FW load + frame: OK
+BMI323 @0x68 chip_id=0x1143
+BMI323 OK
+tof_ack_after_bmi=1
+WiFi OK ip=10.172.110.18 rssi=-74
+recovered_after_wifi=0
+RESULT boot=8 PASS (pass count 8)
+
+=== boot #9 reset_reason=1 (1=power-on 11=usb-reset) ===
+prev boot: rr=1 wifi=1 bmi=1 tmf=1 fw=1 recovered=0
+bus idle: SDA=1 SCL=1 (both must be 1)
+I2C scan:
+  found 0x41
+  found 0x68
+  found 0x7E
+TMF wait 1: stable_after=900 ms flaps=0
+TMF8829 ack: OK, FW load + frame: OK
+BMI323 @0x68 chip_id=0x1143
+BMI323 OK
+tof_ack_after_bmi=1
+WiFi OK ip=10.172.110.18 rssi=-53
+recovered_after_wifi=0
+RESULT boot=9 PASS (pass count 9)
+
+=== boot #10 reset_reason=1 (1=power-on 11=usb-reset) ===
+prev boot: rr=1 wifi=1 bmi=1 tmf=1 fw=1 recovered=0
+bus idle: SDA=1 SCL=1 (both must be 1)
+I2C scan:
+  found 0x41
+  found 0x68
+  found 0x7E
+TMF wait 1: stable_after=900 ms flaps=0
+TMF8829 ack: OK, FW load + frame: OK
+BMI323 @0x68 chip_id=0x1143
+BMI323 OK
+tof_ack_after_bmi=1
+WiFi OK ip=10.172.110.18 rssi=-72
+recovered_after_wifi=0
+RESULT boot=10 PASS (pass count 10)
